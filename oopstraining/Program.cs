@@ -7,7 +7,7 @@ public class Program
 {
     static void Main()
     {
-        // This was the example for encapsulation + abstraction
+        // This was the example for encapsulation + abstraction 
 
         Truck truck = new Truck("BMW");
 

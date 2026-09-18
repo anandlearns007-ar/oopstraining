@@ -9,7 +9,7 @@ namespace oopstraining
     {
         public virtual void Speak() 
         {
-            Console.WriteLine("Animal Speaks");
+            Console.WriteLine("Animal Speak");
         }
     }
     public class Dog : Animal 
